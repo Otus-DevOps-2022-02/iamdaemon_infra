@@ -1,0 +1,5 @@
+{
+	"yc_folder_id": "********************",
+        "yc_service_account_key_file": "key.json.example",
+        "yc_image_id": "********************"
+}
